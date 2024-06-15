@@ -1,13 +1,7 @@
 package ilja.spring.runnerz;
 
-import ilja.spring.runnerz.user.User;
-import ilja.spring.runnerz.user.UserRestClient;
-import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.annotation.Bean;
-
-import java.util.List;
 
 @SpringBootApplication
 public class RunnerzApplication {
